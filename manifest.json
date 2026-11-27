@@ -12,7 +12,7 @@
         "changelog": "Initial catalog package for testing. Linux x64 only.",
         "targetAbi": "12.0.0.0",
         "sourceUrl": "https://github.com/Sam031K/Subtitle-Detective/releases/download/v0.5.29.8/Subtitle-Detective-v0.5.29.8-linux-x64.zip",
-        "checksum": "08fd777969e7c900936e39df0d38d99c",
+        "checksum": "835a1c3a4c89d987c54bd968324b5d2d",
         "timestamp": "2026-11-27T00:00:00Z"
       }
     ],
