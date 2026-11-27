@@ -8,6 +8,14 @@
     "overview": "Automatic subtitle language detection and metadata cleanup. Linux x64 build.",
     "versions": [
       {
+        "version": "0.5.29.9",
+        "changelog": "REVIEW BUILD — hold public distribution pending Lingua model and extended OCR glyph redistribution clearance. Restricts library selection and operations to Movies and TV Shows.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/Sam031K/Subtitle-Detective/releases/download/v0.5.29.9/Subtitle-Detective-v0.5.29.9-linux-x64.zip",
+        "checksum": "1d0e3c84c7c68a388e49586c95e87881",
+        "timestamp": "2026-11-27T11:29:08Z"
+      },
+      {
         "version": "0.5.29.8",
         "changelog": "Initial catalog package for testing. Linux x64 only.",
         "targetAbi": "12.0.0.0",
