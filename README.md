@@ -139,4 +139,6 @@ Thanks to the developers and contributors behind the open-source projects that h
 
 Third-party licensing information and notices are included in the release archives.
 
+
+**Source Code:** The complete corresponding source code is available as a separate ZIP archive in the [Releases section](https://github.com/Sam031K/Subtitle-Detective/releases), alongside the compiled plugin.
 Developed by Sam031K with AI-assisted development using ChatGPT and Codex.
